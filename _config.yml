@@ -99,7 +99,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: git@github.com:Drain417/Drain417.github.io.git
+  repo: "https://github.com/Drain417/Drain417.github.io"
   branch: master
 
 jsonContent:
